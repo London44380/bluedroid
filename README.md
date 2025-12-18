@@ -1,8 +1,6 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-blue.svg?logo=kotlin)](https://kotlinlang.org)
 <img width="2048" height="2048" alt="generated-image" src="https://github.com/user-attachments/assets/3b8d5b4d-adef-4695-a59d-2e704ab68ca6" />
 
-![Logo](logo.png)
-
 BlueDroid is a Android app designed for Bluetooth Low Energy (BLE) advertising spam. It is intended for authorized penetration testing and security research in controlled environments.
 
 ## Features
